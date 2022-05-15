@@ -28,6 +28,8 @@ In fisierul messagesRouter am realizat functiile necesare pentru a afisa toate r
 
 Crearea unei conexiuni in Postman in localhost, denumita CloudComputing.
  
+Link catre video: https://github.com/claudiaboerescu/ProiectCC-Back.git
+
 
 
 
